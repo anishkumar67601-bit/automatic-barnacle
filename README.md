@@ -1,5 +1,6 @@
 # automatic-barnacle
-🎮 No one here to play this game, yet the code waits for your move. Stone, Paper, Scissors — a tiny game that feels a little too human.
+🎮 No one here to play this game, I just trying enjoy!
+
 import random
 
 choices = ["stone", "paper", "scissors"]
